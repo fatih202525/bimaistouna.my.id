@@ -115,14 +115,7 @@
       "password": "AdminTouna2026!",
       "role": "Admin Bimais",
       "status": "Aktif"
-    },
-    {
-      "id": "u3",
-      "username": "editor",
-      "password": "Editor2026!",
-      "role": "Editor",
-      "status": "Aktif"
     }
   ],
-  "updatedAt": "2026-11-05T00:51:07.780Z"
+  "updatedAt": "2026-11-05T00:55:31.539Z"
 }

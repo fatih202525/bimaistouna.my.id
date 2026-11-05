@@ -1,0 +1,135 @@
+{
+  "beritas": [
+    {
+      "id": "1",
+      "judul": "Kakan Kemenag Tojo Una-Una Resmikan Program Bimbingan Manasik Sepanjang Tahun di KUA Ampana Kota",
+      "kategori": "Berita KUA",
+      "tanggal": "2026-05-10",
+      "penulis": "Admin Bimais",
+      "konten": "Kantor Kementerian Agama Kabupaten Tojo Una-Una melalui Seksi Bimbingan Masyarakat Islam (Bimais) resmi meluncurkan program Bimbingan Manasik Sepanjang Tahun di KUA Kecamatan Ampana Kota.\n\nKepala Kantor Kemenag Tojo Una-Una, H. Ahmad Faisal, S.Ag., M.Pd., dalam sambutannya menegaskan bahwa program ini menjadi jawaban atas tingginya animo masyarakat untuk mendapatkan pemahaman haji yang komprehensif, tidak hanya menjelang keberangkatan.\n\n\"Manasik bukan sekadar ritual tahunan. Ini adalah edukasi spiritual berkelanjutan. Kita ingin jamaah Tojo Una-Una menjadi jamaah yang mandiri, paham rukun, wajib, dan sunnah haji,\" ujarnya.\n\nProgram ini akan dilaksanakan setiap Jumat pekan kedua di seluruh KUA se-Kabupaten Tojo Una-Una, dengan materi bergilir: fikih haji, kesehatan jamaah, manajemen perjalanan, hingga praktik langsung di miniatur Ka'bah yang telah disiapkan di halaman KUA.\n\nTurut hadir Kepala Seksi Bimais, para Kepala KUA, penyuluh agama Islam, dan perwakilan IPHI Tojo Una-Una. Antusiasme peserta terlihat dari 85 pendaftar di hari pertama, melebihi target 50 orang.\n\nKe depan, Bimais akan mengembangkan modul digital manasik yang dapat diakses melalui portal bimaistouna.my.id agar jamaah di kepulauan seperti Togean dan Walea dapat mengikuti secara daring.",
+      "fotoUtama": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc4MDAnIGhlaWdodD0nNDUwJyB2aWV3Qm94PScwIDAgODAwIDQ1MCc+PHJlY3Qgd2lkdGg9JzgwMCcgaGVpZ2h0PSc0NTAnIGZpbGw9JyMwMDYwM0QnLz48dGV4dCB4PSc1MCUnIHk9JzQ1JScgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nMjgnIGZpbGw9JyNGRkU5QTAnPk1BTkFTSUsgU0VQQU5KQU5HIFRBSFVOPC90ZXh0Pjx0ZXh0IHg9JzUwJScgeT0nNTglJyBkb21pbmFudC1iYXNlbGluZT0nbWlkZGxlJyB0ZXh0LWFuY2hvcj0nbWlkZGxlJyBmb250LWZhbWlseT0nc2Fucy1zZXJpZicgZm9udC1zaXplPScxNicgZmlsbD0nI0ZGRTlBMCcgb3BhY2l0eT0nMC44Jz5LZW1lbmFnIFRvam8gVW5hLVVuYTwvdGV4dD48L3N2Zz4=",
+      "galeri": [
+        "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc4MDAnIGhlaWdodD0nNDUwJyB2aWV3Qm94PScwIDAgODAwIDQ1MCc+PHJlY3Qgd2lkdGg9JzgwMCcgaGVpZ2h0PSc0NTAnIGZpbGw9JyMwQTdBNEYnLz48dGV4dCB4PSc1MCUnIHk9JzQ1JScgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nMjgnIGZpbGw9JyNmZmYnPlNlc2kgRmlraWggSGFqaTwvdGV4dD48dGV4dCB4PSc1MCUnIHk9JzU4JScgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtc2l6ZT0nMTYnIGZpbGw9JyNmZmYnIG9wYWNpdHk9JzAuOCc+S2VtZW5hZyBUb2pvIFVuYS1VbmE8L3RleHQ+PC9zdmc+",
+        "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc4MDAnIGhlaWdodD0nNDUwJyB2aWV3Qm94PScwIDAgODAwIDQ1MCc+PHJlY3Qgd2lkdGg9JzgwMCcgaGVpZ2h0PSc0NTAnIGZpbGw9JyMwQTVBM0QnLz48dGV4dCB4PSc1MCUnIHk9JzQ1JScgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nMjgnIGZpbGw9JyNmZmYnPlByYWt0aWsgVGF3YWY8L3RleHQ+PHRleHQgeD0nNTAlJyB5PSc1OCUnIGRvbWluYW50LWJhc2VsaW5lPSdtaWRkbGUnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzE2JyBmaWxsPScjZmZmJyBvcGFjaXR5PScwLjgnPktlbWVuYWcgVG9qbyBVbmEtVW5hPC90ZXh0Pjwvc3ZnPg=="
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "views": 342,
+      "featured": true
+    },
+    {
+      "id": "2",
+      "judul": "Gerakan Wakaf Produktif: Bimais Touna Dorong Sertifikasi Tanah Wakaf di 12 Kecamatan",
+      "kategori": "Wakaf",
+      "tanggal": "2026-05-08",
+      "penulis": "Kontributor Bimais",
+      "konten": "Seksi Bimais Kemenag Tojo Una-Una mencatat baru 47% tanah wakaf di wilayahnya yang bersertifikat. Untuk itu, dilakukan percepatan melalui kolaborasi dengan BPN dan KUA.\n\nTim inventarisasi menemukan 128 bidang tanah wakaf belum memiliki AIW yang lengkap. Program Jemput Bola Sertifikasi Wakaf diluncurkan dengan target 60 bidang tuntas hingga Desember 2026.\n\n\"Tanah wakaf adalah amanah umat. Jika tidak disertifikasi, rawan sengketa,\" tegas Kasi Bimais, Hj. Sitti Marwah, S.HI.\n\nSelain sertifikasi, Bimais juga mendorong wakaf produktif berupa kebun kelapa dan tambak yang hasilnya untuk beasiswa santri dhuafa.",
+      "fotoUtama": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc4MDAnIGhlaWdodD0nNDUwJyB2aWV3Qm94PScwIDAgODAwIDQ1MCc+PHJlY3Qgd2lkdGg9JzgwMCcgaGVpZ2h0PSc0NTAnIGZpbGw9JyMxQTZCNEEnLz48dGV4dCB4PSc1MCUnIHk9JzQ1JScgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nMjgnIGZpbGw9JyNmZmYnPldBS0FGIFBST0RVS1RJRiBUT1VOQTwvdGV4dD48dGV4dCB4PSc1MCUnIHk9JzU4JScgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtc2l6ZT0nMTYnIGZpbGw9JyNmZmYnIG9wYWNpdHk9JzAuOCc+S2VtZW5hZyBUb2pvIFVuYS1VbmE8L3RleHQ+PC9zdmc+",
+      "galeri": [
+        "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc4MDAnIGhlaWdodD0nNDUwJyB2aWV3Qm94PScwIDAgODAwIDQ1MCc+PHJlY3Qgd2lkdGg9JzgwMCcgaGVpZ2h0PSc0NTAnIGZpbGw9JyMwMDYwM0QnLz48dGV4dCB4PSc1MCUnIHk9JzQ1JScgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nMjgnIGZpbGw9JyNmZmYnPlBlbmd1a3VyYW4gVGFuYWggV2FrYWY8L3RleHQ+PHRleHQgeD0nNTAlJyB5PSc1OCUnIGRvbWluYW50LWJhc2VsaW5lPSdtaWRkbGUnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzE2JyBmaWxsPScjZmZmJyBvcGFjaXR5PScwLjgnPktlbWVuYWcgVG9qbyBVbmEtVW5hPC90ZXh0Pjwvc3ZnPg=="
+      ],
+      "views": 189,
+      "featured": true
+    },
+    {
+      "id": "3",
+      "judul": "Pembinaan Penyuluh Agama Islam: 35 Penyuluh Ikuti Workshop Moderasi Beragama di Ampana",
+      "kategori": "Penyuluh",
+      "tanggal": "2026-05-05",
+      "penulis": "Editor Bimais",
+      "konten": "Sebanyak 35 penyuluh agama Islam PNS dan Non-PNS se-Tojo Una-Una mengikuti Workshop Penguatan Moderasi Beragama yang digelar Bimais Kemenag Touna di Aula PLHUT Ampana.\n\nMateri meliputi empat indikator moderasi: komitmen kebangsaan, toleransi, anti kekerasan, dan akomodatif terhadap budaya lokal. Narasumber dari UIN Datokarama Palu menekankan pentingnya penyuluh menjadi jembatan di masyarakat yang multietnis.\n\nPara penyuluh juga dilatih pembuatan konten dakwah digital agar pesan moderasi dapat menjangkau generasi muda melalui media sosial.",
+      "fotoUtama": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc4MDAnIGhlaWdodD0nNDUwJyB2aWV3Qm94PScwIDAgODAwIDQ1MCc+PHJlY3Qgd2lkdGg9JzgwMCcgaGVpZ2h0PSc0NTAnIGZpbGw9JyMyQTdBNUEnLz48dGV4dCB4PSc1MCUnIHk9JzQ1JScgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nMjgnIGZpbGw9JyNGRkU5QTAnPldPUktTSE9QIE1PREVSQVNJPC90ZXh0Pjx0ZXh0IHg9JzUwJScgeT0nNTglJyBkb21pbmFudC1iYXNlbGluZT0nbWlkZGxlJyB0ZXh0LWFuY2hvcj0nbWlkZGxlJyBmb250LWZhbWlseT0nc2Fucy1zZXJpZicgZm9udC1zaXplPScxNicgZmlsbD0nI0ZGRTlBMCcgb3BhY2l0eT0nMC44Jz5LZW1lbmFnIFRvam8gVW5hLVVuYTwvdGV4dD48L3N2Zz4=",
+      "galeri": [],
+      "views": 267,
+      "featured": true
+    },
+    {
+      "id": "4",
+      "judul": "Jadwal Sholat Digital Terintegrasi di Masjid Agung Ampana Resmi Diluncurkan",
+      "kategori": "Layanan",
+      "tanggal": "2026-05-03",
+      "penulis": "Admin Bimais",
+      "konten": "Masjid Agung Ampana kini dilengkapi Running Text Jadwal Sholat digital yang terintegrasi dengan sistem Bimais Online. Data waktu sholat diambil dari Bimas Islam Kemenag RI dan disesuaikan dengan koordinat Ampana.\n\nInovasi ini memudahkan jamaah dan menjadi pilot project untuk 15 masjid besar lainnya di Tojo Una-Una.",
+      "fotoUtama": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc4MDAnIGhlaWdodD0nNDUwJyB2aWV3Qm94PScwIDAgODAwIDQ1MCc+PHJlY3Qgd2lkdGg9JzgwMCcgaGVpZ2h0PSc0NTAnIGZpbGw9JyMwMDQwMkEnLz48dGV4dCB4PSc1MCUnIHk9JzQ1JScgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nMjgnIGZpbGw9JyNmZmYnPkpBRFdBTCBTSE9MQVQgRElHSVRBTDwvdGV4dD48dGV4dCB4PSc1MCUnIHk9JzU4JScgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtc2l6ZT0nMTYnIGZpbGw9JyNmZmYnIG9wYWNpdHk9JzAuOCc+S2VtZW5hZyBUb2pvIFVuYS1VbmE8L3RleHQ+PC9zdmc+",
+      "galeri": [],
+      "views": 121
+    },
+    {
+      "id": "5",
+      "judul": "KUA Tojo Barat Catat 112 Pasangan Nikah di Bulan Syawal, Naik 18% dari Tahun Lalu",
+      "kategori": "KUA",
+      "tanggal": "2026-05-02",
+      "penulis": "KUA Tojo Barat",
+      "konten": "Lonjakan pernikahan di bulan Syawal menjadi fenomena tahunan. KUA Tojo Barat mencatat 112 peristiwa nikah, dengan layanan sidang di luar balai nikah sebanyak 34 pasangan di wilayah kepulauan.\n\nKepala KUA Tojo Barat mengingatkan pentingnya pembekalan pranikah melalui Bimwin (Bimbingan Perkawinan) agar angka perceraian dapat ditekan.",
+      "fotoUtama": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc4MDAnIGhlaWdodD0nNDUwJyB2aWV3Qm94PScwIDAgODAwIDQ1MCc+PHJlY3Qgd2lkdGg9JzgwMCcgaGVpZ2h0PSc0NTAnIGZpbGw9JyM1QThGNkYnLz48dGV4dCB4PSc1MCUnIHk9JzQ1JScgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nMjgnIGZpbGw9JyNmZmYnPkRBVEEgTklLQUggU1lBV0FMPC90ZXh0Pjx0ZXh0IHg9JzUwJScgeT0nNTglJyBkb21pbmFudC1iYXNlbGluZT0nbWlkZGxlJyB0ZXh0LWFuY2hvcj0nbWlkZGxlJyBmb250LWZhbWlseT0nc2Fucy1zZXJpZicgZm9udC1zaXplPScxNicgZmlsbD0nI2ZmZicgb3BhY2l0eT0nMC44Jz5LZW1lbmFnIFRvam8gVW5hLVVuYTwvdGV4dD48L3N2Zz4=",
+      "galeri": [],
+      "views": 203
+    },
+    {
+      "id": "6",
+      "judul": "Lomba MTQ Tingkat Kabupaten Tojo Una-Una 2026: Kecamatan Ampana Tete Raih Juara Umum",
+      "kategori": "MTQ",
+      "tanggal": "2026-04-28",
+      "penulis": "Panitia MTQ",
+      "konten": "Musabaqah Tilawatil Qur'an (MTQ) ke-XXVIII Kabupaten Tojo Una-Una resmi ditutup. Kecamatan Ampana Tete berhasil mempertahankan juara umum dengan 3 emas, 2 perak.\n\nBupati Tojo Una-Una dalam sambutannya mengapresiasi peran Kemenag dalam pembinaan qari-qariah. Para juara akan mewakili kabupaten di tingkat Provinsi Sulawesi Tengah.",
+      "fotoUtama": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc4MDAnIGhlaWdodD0nNDUwJyB2aWV3Qm94PScwIDAgODAwIDQ1MCc+PHJlY3Qgd2lkdGg9JzgwMCcgaGVpZ2h0PSc0NTAnIGZpbGw9JyNCMzhBMUEnLz48dGV4dCB4PSc1MCUnIHk9JzQ1JScgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nMjgnIGZpbGw9JyNmZmYnPk1UUSBUT1VOQSAyMDI2PC90ZXh0Pjx0ZXh0IHg9JzUwJScgeT0nNTglJyBkb21pbmFudC1iYXNlbGluZT0nbWlkZGxlJyB0ZXh0LWFuY2hvcj0nbWlkZGxlJyBmb250LWZhbWlseT0nc2Fucy1zZXJpZicgZm9udC1zaXplPScxNicgZmlsbD0nI2ZmZicgb3BhY2l0eT0nMC44Jz5LZW1lbmFnIFRvam8gVW5hLVVuYTwvdGV4dD48L3N2Zz4=",
+      "galeri": [
+        "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc4MDAnIGhlaWdodD0nNDUwJyB2aWV3Qm94PScwIDAgODAwIDQ1MCc+PHJlY3Qgd2lkdGg9JzgwMCcgaGVpZ2h0PSc0NTAnIGZpbGw9JyMwMDYwM0QnLz48dGV4dCB4PSc1MCUnIHk9JzQ1JScgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nMjgnIGZpbGw9JyNmZmYnPlBhd2FpIFRhYXJ1ZiBNVFE8L3RleHQ+PHRleHQgeD0nNTAlJyB5PSc1OCUnIGRvbWluYW50LWJhc2VsaW5lPSdtaWRkbGUnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzE2JyBmaWxsPScjZmZmJyBvcGFjaXR5PScwLjgnPktlbWVuYWcgVG9qbyBVbmEtVW5hPC90ZXh0Pjwvc3ZnPg==",
+        "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc4MDAnIGhlaWdodD0nNDUwJyB2aWV3Qm94PScwIDAgODAwIDQ1MCc+PHJlY3Qgd2lkdGg9JzgwMCcgaGVpZ2h0PSc0NTAnIGZpbGw9JyMwMDYwM0QnLz48dGV4dCB4PSc1MCUnIHk9JzQ1JScgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nMjgnIGZpbGw9JyNmZmYnPlBlbnllcmFoYW4gUGlhbGE8L3RleHQ+PHRleHQgeD0nNTAlJyB5PSc1OCUnIGRvbWluYW50LWJhc2VsaW5lPSdtaWRkbGUnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzE2JyBmaWxsPScjZmZmJyBvcGFjaXR5PScwLjgnPktlbWVuYWcgVG9qbyBVbmEtVW5hPC90ZXh0Pjwvc3ZnPg=="
+      ],
+      "views": 412
+    },
+    {
+      "id": "7",
+      "judul": "Bimais Salurkan Bantuan Sarana Ibadah untuk 20 Masjid di Wilayah Kepulauan Togean",
+      "kategori": "Bantuan",
+      "tanggal": "2026-04-25",
+      "penulis": "Admin Bimais",
+      "konten": "Bantuan berupa karpet sajadah, Al-Qur'an, dan sound system disalurkan ke masjid-masjid di Kecamatan Togean, Una-Una, dan Walea Kepulauan.\n\nDistribusi menggunakan kapal Kemenag dan melibatkan penyuluh setempat untuk memastikan tepat sasaran.",
+      "fotoUtama": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc4MDAnIGhlaWdodD0nNDUwJyB2aWV3Qm94PScwIDAgODAwIDQ1MCc+PHJlY3Qgd2lkdGg9JzgwMCcgaGVpZ2h0PSc0NTAnIGZpbGw9JyMwRTVBM0UnLz48dGV4dCB4PSc1MCUnIHk9JzQ1JScgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nMjgnIGZpbGw9JyNmZmYnPkJBTlRVQU4gTUFTSklEIEtFUFVMQVVBTjwvdGV4dD48dGV4dCB4PSc1MCUnIHk9JzU4JScgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtc2l6ZT0nMTYnIGZpbGw9JyNmZmYnIG9wYWNpdHk9JzAuOCc+S2VtZW5hZyBUb2pvIFVuYS1VbmE8L3RleHQ+PC9zdmc+",
+      "galeri": [],
+      "views": 98
+    },
+    {
+      "id": "8",
+      "judul": "Pelatihan Pengelolaan SIMKAH dan e-AIW bagi Operator KUA se-Tojo Una-Una",
+      "kategori": "Teknologi",
+      "tanggal": "2026-04-20",
+      "penulis": "Operator Bimais",
+      "konten": "Untuk meningkatkan akurasi data nikah dan wakaf, Bimais menggelar bimtek SIMKAH Web dan e-AIW. Seluruh operator KUA dilatih input data real-time agar terintegrasi dengan Pusaka SuperApp Kemenag.\n\nTargetnya, tidak ada lagi pencatatan manual yang berpotensi ganda.",
+      "fotoUtama": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc4MDAnIGhlaWdodD0nNDUwJyB2aWV3Qm94PScwIDAgODAwIDQ1MCc+PHJlY3Qgd2lkdGg9JzgwMCcgaGVpZ2h0PSc0NTAnIGZpbGw9JyMxRjZCNEUnLz48dGV4dCB4PSc1MCUnIHk9JzQ1JScgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nMjgnIGZpbGw9JyNmZmYnPkJJTVRFSyBTSU1LQUggZS1BSVc8L3RleHQ+PHRleHQgeD0nNTAlJyB5PSc1OCUnIGRvbWluYW50LWJhc2VsaW5lPSdtaWRkbGUnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmb250LXNpemU9JzE2JyBmaWxsPScjZmZmJyBvcGFjaXR5PScwLjgnPktlbWVuYWcgVG9qbyBVbmEtVW5hPC90ZXh0Pjwvc3ZnPg==",
+      "galeri": [],
+      "views": 156
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "username": "superadmin",
+      "password": "BimaisTouna2026!",
+      "role": "Super Admin",
+      "status": "Aktif"
+    },
+    {
+      "id": "u2",
+      "username": "admin",
+      "password": "AdminTouna2026!",
+      "role": "Admin Bimais",
+      "status": "Aktif"
+    },
+    {
+      "id": "u3",
+      "username": "editor",
+      "password": "Editor2026!",
+      "role": "Editor",
+      "status": "Aktif"
+    },
+    {
+      "id": "u4",
+      "username": "kontributor",
+      "password": "Kontributor2026!",
+      "role": "Kontributor",
+      "status": "Aktif"
+    }
+  ],
+  "updatedAt": "2026-11-05T00:49:35.451Z"
+}

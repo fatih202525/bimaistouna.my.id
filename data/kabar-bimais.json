@@ -122,14 +122,7 @@
       "password": "Editor2026!",
       "role": "Editor",
       "status": "Aktif"
-    },
-    {
-      "id": "u4",
-      "username": "kontributor",
-      "password": "Kontributor2026!",
-      "role": "Kontributor",
-      "status": "Aktif"
     }
   ],
-  "updatedAt": "2026-11-05T00:49:35.451Z"
+  "updatedAt": "2026-11-05T00:51:07.780Z"
 }
